@@ -2,3 +2,4 @@ rango/.DS_Store
 rango/__pycache__/
 db.sqlite3
 media/.DS_Store
+tests_chapter*
